@@ -1,1 +1,17 @@
-Just messing around
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>EandJTaphouse</title>
+     <style> 
+        h1 {text-align: center;}
+        p {text-align: center;}
+        div {text-align: center;}
+     </style> 
+   </head>
+   <body>
+      <h1>EandJTaphouse</h1>
+      <p></p>
+      <p></p>
+      <p>Contact: admin@svrachel.com</p>
+   </body>
+</html>
