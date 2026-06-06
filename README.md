@@ -1,1 +1,1 @@
-Landing page for EandJTaphouse
+EandJTaphouse.com domain landing page
