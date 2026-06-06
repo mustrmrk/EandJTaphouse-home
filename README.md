@@ -1,2 +1,0 @@
-# EandJTaphouse
-Just messing around
